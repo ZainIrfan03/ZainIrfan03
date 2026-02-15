@@ -1,9 +1,9 @@
 # 💫 About Me:
 I am a Computer Science student with hands-on experience in backend and full-stack development. I have built real-world projects like a Stock Trading Portfolio Management Platform, a Wanderlust Travel App, and a WebRTC-based video conferencing platform, gaining practical skills in MERN stack and WebRTC.
 
-<br>I have a strong interest in building efficient, data-driven applications, writing clean, maintainable code, and solving problems with structured programming and data structures. Currently, I am deepening my JavaScript and frontend skills to become a versatile full-stack developer.
+I have a strong interest in building efficient, data-driven applications, writing clean, maintainable code, and solving problems with structured programming and data structures. Currently, I am deepening my JavaScript and frontend skills to become a versatile full-stack developer.
 
-<br>I am actively seeking learning opportunities, guidance, and collaborations where I can contribute to impactful projects, enhance my skills, and grow as a software engineer.<br><br>
+I am actively seeking learning opportunities, guidance, and collaborations where I can contribute to impactful projects, enhance my skills, and grow as a software engineer.<br><br>
 
 
 ## 🌐 Socials:
